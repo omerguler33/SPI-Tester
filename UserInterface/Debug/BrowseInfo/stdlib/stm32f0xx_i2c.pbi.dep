@@ -1,0 +1,39 @@
+D:\masaüstüm\UserInterface\Debug\BrowseInfo\stdlib\stm32f0xx_i2c.pbi: \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_i2c.c \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_i2c.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\CMSIS\Include\core_cm0.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\CMSIS\Include\core_cmInstr.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\cmsis_iar.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\CMSIS\Include\core_cmFunc.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h \
+  D:\masaüstüm\UserInterface\stm32f0xx_conf.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_cec.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_crc.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_crs.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_comp.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dac.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dbgmcu.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dma.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_exti.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_flash.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_syscfg.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_iwdg.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_pwr.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rtc.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_spi.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_wwdg.h \
+  D:\masaüstüm\UserInterface\en.stm32f0_stdperiph_lib\STM32F0xx_StdPeriph_Lib_V1.6.0\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
